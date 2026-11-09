@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "코딩산타",
+  "short_name": "코딩산타",
+  "description": "편지의 단서로 루돌프의 선물을 찾는 코딩산타 체험 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#FFF6E3",
+  "theme_color": "#C62839",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

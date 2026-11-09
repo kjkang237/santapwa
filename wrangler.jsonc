@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers 정적 파일 배포 설정 (PWA 버전)
+  // 기존 배포를 덮어쓰지 않도록 name을 기존과 다르게 두었어요.
+  "name": "coding-santa-pwa",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
